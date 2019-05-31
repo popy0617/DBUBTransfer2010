@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+  <settings>
+    <serverip>localhost</serverip>
+    <serverport>1433</serverport>
+    <userid>sa</userid>
+    <password>1qazxcvbnm,./</password>    
+  </settings>
+

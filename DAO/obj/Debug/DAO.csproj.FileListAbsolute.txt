@@ -1,0 +1,11 @@
+D:\Work\司法院資料庫轉碼\DAO\bin\Debug\MOADB.dll
+D:\Work\司法院資料庫轉碼\DAO\bin\Debug\MOADB.pdb
+D:\Work\司法院資料庫轉碼\DAO\bin\Debug\Newtonsoft.Json.dll
+D:\Work\司法院資料庫轉碼\DAO\bin\Debug\Newtonsoft.Json.xml
+D:\Work\司法院資料庫轉碼\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\Work\司法院資料庫轉碼\DAO\obj\Debug\MOADB.Properties.Resources.resources
+D:\Work\司法院資料庫轉碼\DAO\obj\Debug\DAO.csproj.GenerateResource.cache
+D:\Work\司法院資料庫轉碼\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\Work\司法院資料庫轉碼\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\Work\司法院資料庫轉碼\DAO\obj\Debug\MOADB.dll
+D:\Work\司法院資料庫轉碼\DAO\obj\Debug\MOADB.pdb

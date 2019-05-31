@@ -1,0 +1,1235 @@
+<root>
+  <Encoding index="0">
+    <CNSPage>0C</CNSPage>
+    <CNSCode>3B52</CNSCode>
+    <BIG5Code>9FD2</BIG5Code>
+    <UnicodeCode>EDEE</UnicodeCode>
+    <UTF8Code>EEB7AE</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="1">
+    <CNSPage>0F</CNSPage>
+    <CNSCode>5732</CNSCode>
+    <BIG5Code>9FD3</BIG5Code>
+    <UnicodeCode>2681C</UnicodeCode>
+    <UTF8Code>E29A81</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="2">
+    <CNSPage>03</CNSPage>
+    <CNSCode>2C7A</CNSCode>
+    <BIG5Code>9FD4</BIG5Code>
+    <UnicodeCode>661B</UnicodeCode>
+    <UTF8Code>E6989B</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="3">
+    <CNSPage>03</CNSPage>
+    <CNSCode>5F58</CNSCode>
+    <BIG5Code>9FD5</BIG5Code>
+    <UnicodeCode>7C58</UnicodeCode>
+    <UTF8Code>E7B198</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="4">
+    <CNSPage>0F</CNSPage>
+    <CNSCode>316E</CNSCode>
+    <BIG5Code>9FD6</BIG5Code>
+    <UnicodeCode>25E3C</UnicodeCode>
+    <UTF8Code>E297A3</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="5">
+    <CNSPage>0F</CNSPage>
+    <CNSCode>523B</CNSCode>
+    <BIG5Code>9FD7</BIG5Code>
+    <UnicodeCode>27BF4</UnicodeCode>
+    <UTF8Code>E29EBF</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="6">
+    <CNSPage>04</CNSPage>
+    <CNSCode>2139</CNSCode>
+    <BIG5Code>9FD8</BIG5Code>
+    <UnicodeCode>4E12</UnicodeCode>
+    <UTF8Code>E4B892</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="7">
+    <CNSPage>03</CNSPage>
+    <CNSCode>547A</CNSCode>
+    <BIG5Code>9FD9</BIG5Code>
+    <UnicodeCode>6A99</UnicodeCode>
+    <UTF8Code>E6AA99</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="8">
+    <CNSPage>03</CNSPage>
+    <CNSCode>3C78</CNSCode>
+    <BIG5Code>9FDA</BIG5Code>
+    <UnicodeCode>3DCD</UnicodeCode>
+    <UTF8Code>E3B78D</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="9">
+    <CNSPage>0D</CNSPage>
+    <CNSCode>3076</CNSCode>
+    <BIG5Code>9FDB</BIG5Code>
+    <UnicodeCode>EDF7</UnicodeCode>
+    <UTF8Code>EEB7B7</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="10">
+    <CNSPage>0D</CNSPage>
+    <CNSCode>4E52</CNSCode>
+    <BIG5Code>9FDC</BIG5Code>
+    <UnicodeCode>EDF8</UnicodeCode>
+    <UTF8Code>EEB7B8</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="11">
+    <CNSPage>03</CNSPage>
+    <CNSCode>264F</CNSCode>
+    <BIG5Code>9FDD</BIG5Code>
+    <UnicodeCode>3CC0</UnicodeCode>
+    <UTF8Code>E3B380</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="12">
+    <CNSPage>03</CNSPage>
+    <CNSCode>4172</CNSCode>
+    <BIG5Code>9FDE</BIG5Code>
+    <UnicodeCode>6985</UnicodeCode>
+    <UTF8Code>E6A685</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="13">
+    <CNSPage>06</CNSPage>
+    <CNSCode>3839</CNSCode>
+    <BIG5Code>9FDF</BIG5Code>
+    <UnicodeCode>2319E</UnicodeCode>
+    <UTF8Code>E28C99</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="14">
+    <CNSPage>03</CNSPage>
+    <CNSCode>4B22</CNSCode>
+    <BIG5Code>9FE1</BIG5Code>
+    <UnicodeCode>9EBD</UnicodeCode>
+    <UTF8Code>E9BABD</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="15">
+    <CNSPage>05</CNSPage>
+    <CNSCode>594A</CNSCode>
+    <BIG5Code>9FE2</BIG5Code>
+    <UnicodeCode>EDFE</UnicodeCode>
+    <UTF8Code>EEB7BE</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="16">
+    <CNSPage>0E</CNSPage>
+    <CNSCode>4C62</CNSCode>
+    <BIG5Code>9FE3</BIG5Code>
+    <UnicodeCode>5170</UnicodeCode>
+    <UTF8Code>E585B0</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="17">
+    <CNSPage>03</CNSPage>
+    <CNSCode>4640</CNSCode>
+    <BIG5Code>9FE4</BIG5Code>
+    <UnicodeCode>5897</UnicodeCode>
+    <UTF8Code>E5A297</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="18">
+    <CNSPage>03</CNSPage>
+    <CNSCode>3526</CNSCode>
+    <BIG5Code>9FE5</BIG5Code>
+    <UnicodeCode>36E6</UnicodeCode>
+    <UTF8Code>E39BA6</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="19">
+    <CNSPage>0F</CNSPage>
+    <CNSCode>2D49</CNSCode>
+    <BIG5Code>9FE6</BIG5Code>
+    <UnicodeCode>2763B</UnicodeCode>
+    <UTF8Code>E29DA3</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="20">
+    <CNSPage>03</CNSPage>
+    <CNSCode>3361</CNSCode>
+    <BIG5Code>9FE7</BIG5Code>
+    <UnicodeCode>44B1</UnicodeCode>
+    <UTF8Code>E492B1</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="21">
+    <CNSPage>03</CNSPage>
+    <CNSCode>4D63</CNSCode>
+    <BIG5Code>9FE8</BIG5Code>
+    <UnicodeCode>7BCD</UnicodeCode>
+    <UTF8Code>E7AF8D</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="22">
+    <CNSPage>0E</CNSPage>
+    <CNSCode>6D5B</CNSCode>
+    <BIG5Code>9FE9</BIG5Code>
+    <UnicodeCode>3F08</UnicodeCode>
+    <UTF8Code>E3BC88</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="23">
+    <CNSPage>03</CNSPage>
+    <CNSCode>2267</CNSCode>
+    <BIG5Code>9FEA</BIG5Code>
+    <UnicodeCode>4EF9</UnicodeCode>
+    <UTF8Code>E4BBB9</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="24">
+    <CNSPage>03</CNSPage>
+    <CNSCode>5F22</CNSCode>
+    <BIG5Code>9FEB</BIG5Code>
+    <UnicodeCode>9A3C</UnicodeCode>
+    <UTF8Code>E9A8BC</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="25">
+    <CNSPage>03</CNSPage>
+    <CNSCode>287C</CNSCode>
+    <BIG5Code>9FEC</BIG5Code>
+    <UnicodeCode>3905</UnicodeCode>
+    <UTF8Code>E3A485</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="26">
+    <CNSPage>03</CNSPage>
+    <CNSCode>2121</CNSCode>
+    <BIG5Code>9FED</BIG5Code>
+    <UnicodeCode>4E28</UnicodeCode>
+    <UTF8Code>E4B8A8</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="27">
+    <CNSPage>03</CNSPage>
+    <CNSCode>3440</CNSCode>
+    <BIG5Code>9FEE</BIG5Code>
+    <UnicodeCode>5066</UnicodeCode>
+    <UTF8Code>E581A6</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="28">
+    <CNSPage>0E</CNSPage>
+    <CNSCode>596F</CNSCode>
+    <BIG5Code>9FEF</BIG5Code>
+    <UnicodeCode>7EE3</UnicodeCode>
+    <UTF8Code>E7BBA3</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="29">
+    <CNSPage>03</CNSPage>
+    <CNSCode>3D7C</CNSCode>
+    <BIG5Code>9FF0</BIG5Code>
+    <UnicodeCode>4285</UnicodeCode>
+    <UTF8Code>E48A85</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="30">
+    <CNSPage>0E</CNSPage>
+    <CNSCode>6C7C</CNSCode>
+    <BIG5Code>9FF1</BIG5Code>
+    <UnicodeCode>9426</UnicodeCode>
+    <UTF8Code>E990A6</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="31">
+    <CNSPage>0D</CNSPage>
+    <CNSCode>363F</CNSCode>
+    <BIG5Code>9FF2</BIG5Code>
+    <UnicodeCode>EE0E</UnicodeCode>
+    <UTF8Code>EEB88E</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="32">
+    <CNSPage>03</CNSPage>
+    <CNSCode>4934</CNSCode>
+    <BIG5Code>9FF3</BIG5Code>
+    <UnicodeCode>4509</UnicodeCode>
+    <UTF8Code>E49489</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="33">
+    <CNSPage>0E</CNSPage>
+    <CNSCode>4721</CNSCode>
+    <BIG5Code>9FF4</BIG5Code>
+    <UnicodeCode>EE10</UnicodeCode>
+    <UTF8Code>EEB890</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="34">
+    <CNSPage>06</CNSPage>
+    <CNSCode>3B36</CNSCode>
+    <BIG5Code>9FF5</BIG5Code>
+    <UnicodeCode>26903</UnicodeCode>
+    <UTF8Code>E29A90</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="35">
+    <CNSPage>03</CNSPage>
+    <CNSCode>252E</CNSCode>
+    <BIG5Code>9FF6</BIG5Code>
+    <UnicodeCode>3627</UnicodeCode>
+    <UTF8Code>E398A7</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="36">
+    <CNSPage>03</CNSPage>
+    <CNSCode>243C</CNSCode>
+    <BIG5Code>9FF7</BIG5Code>
+    <UnicodeCode>9096</UnicodeCode>
+    <UTF8Code>E98296</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="37">
+    <CNSPage>03</CNSPage>
+    <CNSCode>4833</CNSCode>
+    <BIG5Code>9FF8</BIG5Code>
+    <UnicodeCode>7774</UnicodeCode>
+    <UTF8Code>E79DB4</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="38">
+    <CNSPage>06</CNSPage>
+    <CNSCode>357E</CNSCode>
+    <BIG5Code>9FF9</BIG5Code>
+    <UnicodeCode>EE15</UnicodeCode>
+    <UTF8Code>EEB895</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="39">
+    <CNSPage>03</CNSPage>
+    <CNSCode>4663</CNSCode>
+    <BIG5Code>9FFA</BIG5Code>
+    <UnicodeCode>5FB3</UnicodeCode>
+    <UTF8Code>E5BEB3</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="40">
+    <CNSPage>0D</CNSPage>
+    <CNSCode>5423</CNSCode>
+    <BIG5Code>9FFB</BIG5Code>
+    <UnicodeCode>EE17</UnicodeCode>
+    <UTF8Code>EEB897</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="41">
+    <CNSPage>03</CNSPage>
+    <CNSCode>4838</CNSCode>
+    <BIG5Code>9FFC</BIG5Code>
+    <UnicodeCode>7778</UnicodeCode>
+    <UTF8Code>E79DB8</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="42">
+    <CNSPage>0D</CNSPage>
+    <CNSCode>6165</CNSCode>
+    <BIG5Code>9FFD</BIG5Code>
+    <UnicodeCode>EE19</UnicodeCode>
+    <UTF8Code>EEB899</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="43">
+    <CNSPage>03</CNSPage>
+    <CNSCode>544C</CNSCode>
+    <BIG5Code>9FFE</BIG5Code>
+    <UnicodeCode>58D0</UnicodeCode>
+    <UTF8Code>E5A390</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="44">
+    <CNSPage>0C</CNSPage>
+    <CNSCode>586B</CNSCode>
+    <BIG5Code>A040</BIG5Code>
+    <UnicodeCode>EE1B</UnicodeCode>
+    <UTF8Code>EEB89B</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="45">
+    <CNSPage>04</CNSPage>
+    <CNSCode>5437</CNSCode>
+    <BIG5Code>A041</BIG5Code>
+    <UnicodeCode>EE1C</UnicodeCode>
+    <UTF8Code>EEB89C</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="46">
+    <CNSPage>03</CNSPage>
+    <CNSCode>4338</CNSCode>
+    <BIG5Code>A042</BIG5Code>
+    <UnicodeCode>797E</UnicodeCode>
+    <UTF8Code>E7A5BE</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="47">
+    <CNSPage>04</CNSPage>
+    <CNSCode>683E</CNSCode>
+    <BIG5Code>A043</BIG5Code>
+    <UnicodeCode>9C27</UnicodeCode>
+    <UTF8Code>E9B0A7</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="48">
+    <CNSPage>06</CNSPage>
+    <CNSCode>272E</CNSCode>
+    <BIG5Code>A044</BIG5Code>
+    <UnicodeCode>21D53</UnicodeCode>
+    <UTF8Code>E28795</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="49">
+    <CNSPage>03</CNSPage>
+    <CNSCode>5C72</CNSCode>
+    <BIG5Code>A045</BIG5Code>
+    <UnicodeCode>807C</UnicodeCode>
+    <UTF8Code>E881BC</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="50">
+    <CNSPage>03</CNSPage>
+    <CNSCode>2C7C</CNSCode>
+    <BIG5Code>A046</BIG5Code>
+    <UnicodeCode>6623</UnicodeCode>
+    <UTF8Code>E698A3</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="51">
+    <CNSPage>03</CNSPage>
+    <CNSCode>3B27</CNSCode>
+    <BIG5Code>A047</BIG5Code>
+    <UnicodeCode>5D44</UnicodeCode>
+    <UTF8Code>E5B584</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="52">
+    <CNSPage>03</CNSPage>
+    <CNSCode>5C4C</CNSCode>
+    <BIG5Code>A048</BIG5Code>
+    <UnicodeCode>3C09</UnicodeCode>
+    <UTF8Code>E3B089</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="53">
+    <CNSPage>03</CNSPage>
+    <CNSCode>2865</CNSCode>
+    <BIG5Code>A049</BIG5Code>
+    <UnicodeCode>5E98</UnicodeCode>
+    <UTF8Code>E5BA98</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="54">
+    <CNSPage>06</CNSPage>
+    <CNSCode>5338</CNSCode>
+    <BIG5Code>A04A</BIG5Code>
+    <UnicodeCode>23108</UnicodeCode>
+    <UTF8Code>E28C90</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="55">
+    <CNSPage>0D</CNSPage>
+    <CNSCode>4E2D</CNSCode>
+    <BIG5Code>A04B</BIG5Code>
+    <UnicodeCode>EE26</UnicodeCode>
+    <UTF8Code>EEB8A6</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="56">
+    <CNSPage>03</CNSPage>
+    <CNSCode>2E4B</CNSCode>
+    <BIG5Code>A04C</BIG5Code>
+    <UnicodeCode>7AD4</UnicodeCode>
+    <UTF8Code>E7AB94</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="57">
+    <CNSPage>03</CNSPage>
+    <CNSCode>3129</CNSCode>
+    <BIG5Code>A04D</BIG5Code>
+    <UnicodeCode>6245</UnicodeCode>
+    <UTF8Code>E68985</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="58">
+    <CNSPage>03</CNSPage>
+    <CNSCode>2F53</CNSCode>
+    <BIG5Code>A04E</BIG5Code>
+    <UnicodeCode>5010</UnicodeCode>
+    <UTF8Code>E58090</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="59">
+    <CNSPage>0D</CNSPage>
+    <CNSCode>3C4B</CNSCode>
+    <BIG5Code>A04F</BIG5Code>
+    <UnicodeCode>EE2A</UnicodeCode>
+    <UTF8Code>EEB8AA</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="60">
+    <CNSPage>03</CNSPage>
+    <CNSCode>3F24</CNSCode>
+    <BIG5Code>A050</BIG5Code>
+    <UnicodeCode>8A3D</UnicodeCode>
+    <UTF8Code>E8A8BD</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="61">
+    <CNSPage>0D</CNSPage>
+    <CNSCode>2134</CNSCode>
+    <BIG5Code>A051</BIG5Code>
+    <UnicodeCode>EE2C</UnicodeCode>
+    <UTF8Code>EEB8AC</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="62">
+    <CNSPage>0E</CNSPage>
+    <CNSCode>2B6A</CNSCode>
+    <BIG5Code>A052</BIG5Code>
+    <UnicodeCode>EE2D</UnicodeCode>
+    <UTF8Code>EEB8AD</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="63">
+    <CNSPage>06</CNSPage>
+    <CNSCode>6143</CNSCode>
+    <BIG5Code>A053</BIG5Code>
+    <UnicodeCode>26D65</UnicodeCode>
+    <UTF8Code>E29B96</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="64">
+    <CNSPage>0F</CNSPage>
+    <CNSCode>3735</CNSCode>
+    <BIG5Code>A054</BIG5Code>
+    <UnicodeCode>25683</UnicodeCode>
+    <UTF8Code>E295A8</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="65">
+    <CNSPage>0F</CNSPage>
+    <CNSCode>5F50</CNSCode>
+    <BIG5Code>A055</BIG5Code>
+    <UnicodeCode>24AA4</UnicodeCode>
+    <UTF8Code>E292AA</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="66">
+    <CNSPage>03</CNSPage>
+    <CNSCode>2147</CNSCode>
+    <BIG5Code>A056</BIG5Code>
+    <UnicodeCode>4EA3</UnicodeCode>
+    <UTF8Code>E4BAA3</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="67">
+    <CNSPage>0F</CNSPage>
+    <CNSCode>3660</CNSCode>
+    <BIG5Code>A057</BIG5Code>
+    <UnicodeCode>24969</UnicodeCode>
+    <UTF8Code>E29296</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="68">
+    <CNSPage>0E</CNSPage>
+    <CNSCode>5E21</CNSCode>
+    <BIG5Code>A058</BIG5Code>
+    <UnicodeCode>9039</UnicodeCode>
+    <UTF8Code>E980B9</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="69">
+    <CNSPage>03</CNSPage>
+    <CNSCode>586C</CNSCode>
+    <BIG5Code>A059</BIG5Code>
+    <UnicodeCode>85B2</UnicodeCode>
+    <UTF8Code>E896B2</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="70">
+    <CNSPage>03</CNSPage>
+    <CNSCode>4A66</CNSCode>
+    <BIG5Code>A05A</BIG5Code>
+    <UnicodeCode>99B8</UnicodeCode>
+    <UTF8Code>E9A6B8</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="71">
+    <CNSPage>0A</CNSPage>
+    <CNSCode>6139</CNSCode>
+    <BIG5Code>A05B</BIG5Code>
+    <UnicodeCode>24942</UnicodeCode>
+    <UTF8Code>E29294</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="72">
+    <CNSPage>04</CNSPage>
+    <CNSCode>2A4C</CNSCode>
+    <BIG5Code>A05C</BIG5Code>
+    <UnicodeCode>7685</UnicodeCode>
+    <UTF8Code>E79A85</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="73">
+    <CNSPage>07</CNSPage>
+    <CNSCode>2634</CNSCode>
+    <BIG5Code>A05D</BIG5Code>
+    <UnicodeCode>25839</UnicodeCode>
+    <UTF8Code>E29683</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="74">
+    <CNSPage>0E</CNSPage>
+    <CNSCode>362C</CNSCode>
+    <BIG5Code>A05E</BIG5Code>
+    <UnicodeCode>EE39</UnicodeCode>
+    <UTF8Code>EEB8B9</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="75">
+    <CNSPage>04</CNSPage>
+    <CNSCode>3A55</CNSCode>
+    <BIG5Code>A05F</BIG5Code>
+    <UnicodeCode>26C2B</UnicodeCode>
+    <UTF8Code>E29B82</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="76">
+    <CNSPage>0D</CNSPage>
+    <CNSCode>607E</CNSCode>
+    <BIG5Code>A060</BIG5Code>
+    <UnicodeCode>EE3B</UnicodeCode>
+    <UTF8Code>EEB8BB</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="77">
+    <CNSPage>0C</CNSPage>
+    <CNSCode>623B</CNSCode>
+    <BIG5Code>A061</BIG5Code>
+    <UnicodeCode>EE3C</UnicodeCode>
+    <UTF8Code>EEB8BC</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="78">
+    <CNSPage>03</CNSPage>
+    <CNSCode>4E4D</CNSCode>
+    <BIG5Code>A062</BIG5Code>
+    <UnicodeCode>8533</UnicodeCode>
+    <UTF8Code>E894B3</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="79">
+    <CNSPage>04</CNSPage>
+    <CNSCode>3A67</CNSCode>
+    <BIG5Code>A063</BIG5Code>
+    <UnicodeCode>8415</UnicodeCode>
+    <UTF8Code>E89095</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="80">
+    <CNSPage>0E</CNSPage>
+    <CNSCode>2E48</CNSCode>
+    <BIG5Code>A064</BIG5Code>
+    <UnicodeCode>EE3F</UnicodeCode>
+    <UTF8Code>EEB8BF</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="81">
+    <CNSPage>0F</CNSPage>
+    <CNSCode>6D22</CNSCode>
+    <BIG5Code>A065</BIG5Code>
+    <UnicodeCode>EE40</UnicodeCode>
+    <UTF8Code>EEB980</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="82">
+    <CNSPage>03</CNSPage>
+    <CNSCode>3A2A</CNSCode>
+    <BIG5Code>A066</BIG5Code>
+    <UnicodeCode>5597</UnicodeCode>
+    <UTF8Code>E59697</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="83">
+    <CNSPage>07</CNSPage>
+    <CNSCode>527B</CNSCode>
+    <BIG5Code>A067</BIG5Code>
+    <UnicodeCode>21131</UnicodeCode>
+    <UTF8Code>E28493</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="84">
+    <CNSPage>03</CNSPage>
+    <CNSCode>4239</CNSCode>
+    <BIG5Code>A068</BIG5Code>
+    <UnicodeCode>6EB5</UnicodeCode>
+    <UTF8Code>E6BAB5</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="85">
+    <CNSPage>03</CNSPage>
+    <CNSCode>326F</CNSCode>
+    <BIG5Code>A069</BIG5Code>
+    <UnicodeCode>7958</UnicodeCode>
+    <UTF8Code>E7A598</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="86">
+    <CNSPage>03</CNSPage>
+    <CNSCode>5A6E</CNSCode>
+    <BIG5Code>A06A</BIG5Code>
+    <UnicodeCode>7C35</UnicodeCode>
+    <UTF8Code>E7B0B5</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="87">
+    <CNSPage>03</CNSPage>
+    <CNSCode>3A26</CNSCode>
+    <BIG5Code>A06B</BIG5Code>
+    <UnicodeCode>EE46</UnicodeCode>
+    <UTF8Code>EEB986</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="88">
+    <CNSPage>03</CNSPage>
+    <CNSCode>504C</CNSCode>
+    <BIG5Code>A06C</BIG5Code>
+    <UnicodeCode>58C4</UnicodeCode>
+    <UTF8Code>E5A384</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="89">
+    <CNSPage>03</CNSPage>
+    <CNSCode>4E6D</CNSCode>
+    <BIG5Code>A06D</BIG5Code>
+    <UnicodeCode>46F1</UnicodeCode>
+    <UTF8Code>E49BB1</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="90">
+    <CNSPage>0F</CNSPage>
+    <CNSCode>5A44</CNSCode>
+    <BIG5Code>A06E</BIG5Code>
+    <UnicodeCode>23712</UnicodeCode>
+    <UTF8Code>E28DB1</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="91">
+    <CNSPage>05</CNSPage>
+    <CNSCode>3C4B</CNSCode>
+    <BIG5Code>A06F</BIG5Code>
+    <UnicodeCode>27D4C</UnicodeCode>
+    <UTF8Code>E29F94</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="92">
+    <CNSPage>03</CNSPage>
+    <CNSCode>5944</CNSCode>
+    <BIG5Code>A070</BIG5Code>
+    <UnicodeCode>93AD</UnicodeCode>
+    <UTF8Code>E98EAD</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="93">
+    <CNSPage>0E</CNSPage>
+    <CNSCode>4079</CNSCode>
+    <BIG5Code>A071</BIG5Code>
+    <UnicodeCode>EE4C</UnicodeCode>
+    <UTF8Code>EEB98C</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="94">
+    <CNSPage>04</CNSPage>
+    <CNSCode>2F75</CNSCode>
+    <BIG5Code>A072</BIG5Code>
+    <UnicodeCode>898E</UnicodeCode>
+    <UTF8Code>E8A68E</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="95">
+    <CNSPage>03</CNSPage>
+    <CNSCode>6049</CNSCode>
+    <BIG5Code>A073</BIG5Code>
+    <UnicodeCode>8B90</UnicodeCode>
+    <UTF8Code>E8AE90</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="96">
+    <CNSPage>0E</CNSPage>
+    <CNSCode>6343</CNSCode>
+    <BIG5Code>A074</BIG5Code>
+    <UnicodeCode>7F19</UnicodeCode>
+    <UTF8Code>E7BC99</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="97">
+    <CNSPage>05</CNSPage>
+    <CNSCode>286E</CNSCode>
+    <BIG5Code>A075</BIG5Code>
+    <UnicodeCode>3753</UnicodeCode>
+    <UTF8Code>E39D93</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="98">
+    <CNSPage>0F</CNSPage>
+    <CNSCode>536E</CNSCode>
+    <BIG5Code>A076</BIG5Code>
+    <UnicodeCode>2100E</UnicodeCode>
+    <UTF8Code>E28480</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="99">
+    <CNSPage>03</CNSPage>
+    <CNSCode>3727</CNSCode>
+    <BIG5Code>A077</BIG5Code>
+    <UnicodeCode>6E17</UnicodeCode>
+    <UTF8Code>E6B897</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="100">
+    <CNSPage>0F</CNSPage>
+    <CNSCode>5F48</CNSCode>
+    <BIG5Code>A078</BIG5Code>
+    <UnicodeCode>2443D</UnicodeCode>
+    <UTF8Code>E29183</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="101">
+    <CNSPage>07</CNSPage>
+    <CNSCode>3239</CNSCode>
+    <BIG5Code>A079</BIG5Code>
+    <UnicodeCode>26EC6</UnicodeCode>
+    <UTF8Code>E29BAC</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="102">
+    <CNSPage>06</CNSPage>
+    <CNSCode>2525</CNSCode>
+    <BIG5Code>A07A</BIG5Code>
+    <UnicodeCode>3C4F</UnicodeCode>
+    <UTF8Code>E3B18F</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="103">
+    <CNSPage>03</CNSPage>
+    <CNSCode>422D</CNSCode>
+    <BIG5Code>A07B</BIG5Code>
+    <UnicodeCode>6EB8</UnicodeCode>
+    <UTF8Code>E6BAB8</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="104">
+    <CNSPage>03</CNSPage>
+    <CNSCode>4058</CNSCode>
+    <BIG5Code>A07C</BIG5Code>
+    <UnicodeCode>5861</UnicodeCode>
+    <UTF8Code>E5A1A1</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="105">
+    <CNSPage>0D</CNSPage>
+    <CNSCode>2623</CNSCode>
+    <BIG5Code>A07D</BIG5Code>
+    <UnicodeCode>EE58</UnicodeCode>
+    <UTF8Code>EEB998</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="106">
+    <CNSPage>0C</CNSPage>
+    <CNSCode>463C</CNSCode>
+    <BIG5Code>A07E</BIG5Code>
+    <UnicodeCode>EE59</UnicodeCode>
+    <UTF8Code>EEB999</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="107">
+    <CNSPage>09</CNSPage>
+    <CNSCode>7D71</CNSCode>
+    <BIG5Code>A0A1</BIG5Code>
+    <UnicodeCode>EE5A</UnicodeCode>
+    <UTF8Code>EEB99A</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="108">
+    <CNSPage>03</CNSPage>
+    <CNSCode>376D</CNSCode>
+    <BIG5Code>A0A2</BIG5Code>
+    <UnicodeCode>413D</UnicodeCode>
+    <UTF8Code>E484BD</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="109">
+    <CNSPage>0F</CNSPage>
+    <CNSCode>2C57</CNSCode>
+    <BIG5Code>A0A3</BIG5Code>
+    <UnicodeCode>EE5C</UnicodeCode>
+    <UTF8Code>EEB99C</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="110">
+    <CNSPage>03</CNSPage>
+    <CNSCode>305C</CNSCode>
+    <BIG5Code>A0A4</BIG5Code>
+    <UnicodeCode>37CD</UnicodeCode>
+    <UTF8Code>E39F8D</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="111">
+    <CNSPage>0F</CNSPage>
+    <CNSCode>4E44</CNSCode>
+    <BIG5Code>A0A5</BIG5Code>
+    <UnicodeCode>21877</UnicodeCode>
+    <UTF8Code>E28687</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="112">
+    <CNSPage>06</CNSPage>
+    <CNSCode>5B2E</CNSCode>
+    <BIG5Code>A0A6</BIG5Code>
+    <UnicodeCode>208A7</UnicodeCode>
+    <UTF8Code>E2828A</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="113">
+    <CNSPage>0E</CNSPage>
+    <CNSCode>6829</CNSCode>
+    <BIG5Code>A0A7</BIG5Code>
+    <UnicodeCode>8C33</UnicodeCode>
+    <UTF8Code>E8B0B3</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="114">
+    <CNSPage>03</CNSPage>
+    <CNSCode>2A5C</CNSCode>
+    <BIG5Code>A0A8</BIG5Code>
+    <UnicodeCode>5367</UnicodeCode>
+    <UTF8Code>E58DA7</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="115">
+    <CNSPage>0D</CNSPage>
+    <CNSCode>495D</CNSCode>
+    <BIG5Code>A0A9</BIG5Code>
+    <UnicodeCode>EE62</UnicodeCode>
+    <UTF8Code>EEB9A2</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="116">
+    <CNSPage>04</CNSPage>
+    <CNSCode>3F55</CNSCode>
+    <BIG5Code>A0AA</BIG5Code>
+    <UnicodeCode>41D0</UnicodeCode>
+    <UTF8Code>E48790</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="117">
+    <CNSPage>0D</CNSPage>
+    <CNSCode>6823</CNSCode>
+    <BIG5Code>A0AB</BIG5Code>
+    <UnicodeCode>EE64</UnicodeCode>
+    <UTF8Code>EEB9A4</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="118">
+    <CNSPage>0D</CNSPage>
+    <CNSCode>7C4E</CNSCode>
+    <BIG5Code>A0AC</BIG5Code>
+    <UnicodeCode>EE65</UnicodeCode>
+    <UTF8Code>EEB9A5</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="119">
+    <CNSPage>03</CNSPage>
+    <CNSCode>484D</CNSCode>
+    <BIG5Code>A0AD</BIG5Code>
+    <UnicodeCode>7A2A</UnicodeCode>
+    <UTF8Code>E7A8AA</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="120">
+    <CNSPage>0F</CNSPage>
+    <CNSCode>2533</CNSCode>
+    <BIG5Code>A0AE</BIG5Code>
+    <UnicodeCode>EE67</UnicodeCode>
+    <UTF8Code>EEB9A7</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="121">
+    <CNSPage>0F</CNSPage>
+    <CNSCode>6A28</CNSCode>
+    <BIG5Code>A0AF</BIG5Code>
+    <UnicodeCode>EE68</UnicodeCode>
+    <UTF8Code>EEB9A8</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="122">
+    <CNSPage>03</CNSPage>
+    <CNSCode>3224</CNSCode>
+    <BIG5Code>A0B0</BIG5Code>
+    <UnicodeCode>3CEC</UnicodeCode>
+    <UTF8Code>E3B3AC</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="123">
+    <CNSPage>0A</CNSPage>
+    <CNSCode>6C7A</CNSCode>
+    <BIG5Code>A0B1</BIG5Code>
+    <UnicodeCode>2567F</UnicodeCode>
+    <UTF8Code>E295A7</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="124">
+    <CNSPage>03</CNSPage>
+    <CNSCode>5B4A</CNSCode>
+    <BIG5Code>A0B2</BIG5Code>
+    <UnicodeCode>93E5</UnicodeCode>
+    <UTF8Code>E98FA5</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="125">
+    <CNSPage>0D</CNSPage>
+    <CNSCode>5135</CNSCode>
+    <BIG5Code>A0B3</BIG5Code>
+    <UnicodeCode>2AF93</UnicodeCode>
+    <UTF8Code>E2ABB9</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="126">
+    <CNSPage>07</CNSPage>
+    <CNSCode>253D</CNSCode>
+    <BIG5Code>A0B4</BIG5Code>
+    <UnicodeCode>24A38</UnicodeCode>
+    <UTF8Code>E292A3</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="127">
+    <CNSPage>0C</CNSPage>
+    <CNSCode>2827</CNSCode>
+    <BIG5Code>A0B5</BIG5Code>
+    <UnicodeCode>EE6E</UnicodeCode>
+    <UTF8Code>EEB9AE</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="128">
+    <CNSPage>03</CNSPage>
+    <CNSCode>5068</CNSCode>
+    <BIG5Code>A0B6</BIG5Code>
+    <UnicodeCode>6197</UnicodeCode>
+    <UTF8Code>E68697</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="129">
+    <CNSPage>03</CNSPage>
+    <CNSCode>377D</CNSCode>
+    <BIG5Code>A0B7</BIG5Code>
+    <UnicodeCode>7C93</UnicodeCode>
+    <UTF8Code>E7B293</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="130">
+    <CNSPage>0F</CNSPage>
+    <CNSCode>3330</CNSCode>
+    <BIG5Code>A0B8</BIG5Code>
+    <UnicodeCode>205EF</UnicodeCode>
+    <UTF8Code>E2819E</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="131">
+    <CNSPage>04</CNSPage>
+    <CNSCode>6738</CNSCode>
+    <BIG5Code>A0B9</BIG5Code>
+    <UnicodeCode>27B48</UnicodeCode>
+    <UTF8Code>E29EB4</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="132">
+    <CNSPage>03</CNSPage>
+    <CNSCode>5450</CNSCode>
+    <BIG5Code>A0BA</BIG5Code>
+    <UnicodeCode>5B29</UnicodeCode>
+    <UTF8Code>E5ACA9</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="133">
+    <CNSPage>04</CNSPage>
+    <CNSCode>2838</CNSCode>
+    <BIG5Code>A0BB</BIG5Code>
+    <UnicodeCode>4FBC</UnicodeCode>
+    <UTF8Code>E4BEBC</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="134">
+    <CNSPage>0F</CNSPage>
+    <CNSCode>3058</CNSCode>
+    <BIG5Code>A0BC</BIG5Code>
+    <UnicodeCode>23D5B</UnicodeCode>
+    <UTF8Code>E28F95</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="135">
+    <CNSPage>03</CNSPage>
+    <CNSCode>3043</CNSCode>
+    <BIG5Code>A0BD</BIG5Code>
+    <UnicodeCode>36D3</UnicodeCode>
+    <UTF8Code>E39B93</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+  <Encoding index="136">
+    <CNSPage>03</CNSPage>
+    <CNSCode>423C</CNSCode>
+    <BIG5Code>A0BE</BIG5Code>
+    <UnicodeCode>3D31</UnicodeCode>
+    <UTF8Code>E3B4B1</UTF8Code>
+    <ContrastBig5Code>
+    </ContrastBig5Code>
+  </Encoding>
+</root>
